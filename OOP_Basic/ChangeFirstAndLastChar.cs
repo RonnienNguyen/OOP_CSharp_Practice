@@ -27,8 +27,8 @@ public class ChangeFirstAndLastChar
         return result;
 
     }
-
-    public static void Main(string [] args)
+    //Change this Scope to make change => (main -> Main).
+    public static void main(string [] args)
     {
         Console.WriteLine(abc("MMPPMMGG"));
     }
