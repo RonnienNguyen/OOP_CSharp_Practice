@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_Basic
+namespace OOP_Basic_2
 {
     class People
     {
@@ -36,7 +36,7 @@ namespace OOP_Basic
     }
     internal class StudentManagement
     {
-        static void Main(String[] args)
+        static void main(String[] args)
         {
             Student Phuc = new Student("Phuc", 22, "Male", 100);
             Phuc.Info();
