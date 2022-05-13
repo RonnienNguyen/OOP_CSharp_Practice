@@ -67,6 +67,7 @@ public class Meow
         }
         return bad;
     }
+    //Change this Scope to make change => (main -> Main).
     public static void Main(string[] args)
     {
         Console.WriteLine(Solve1("Phuc"));
