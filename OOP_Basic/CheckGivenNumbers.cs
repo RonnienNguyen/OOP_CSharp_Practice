@@ -11,7 +11,7 @@ using System.Threading.Tasks;
  */
 public class CheckGivenNumbers
 {
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         Console.WriteLine("Input 1 Number you wanna read: ");
         double x = double.Parse(Console.ReadLine());
