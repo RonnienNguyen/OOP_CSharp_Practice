@@ -34,7 +34,7 @@ public class CheckMultiple3or7
         }
 
     }
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         int a = int.Parse(Console.ReadLine());
         Check(a);
