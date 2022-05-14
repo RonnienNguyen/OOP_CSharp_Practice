@@ -11,7 +11,8 @@ using System.Threading.Tasks;
  */
 public class Check3wInString
 {
-    public static void Main(string[] args)
+    //Change main
+    public static void main(string[] args)
     {
         int count = 0;
         Console.WriteLine("Write a string input");
