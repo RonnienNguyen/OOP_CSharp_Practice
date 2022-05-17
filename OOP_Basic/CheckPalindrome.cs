@@ -10,7 +10,7 @@ using System.Threading.Tasks;
  */
 public class CheckPalindrome
 {
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         Console.Write("Enter a string: ");
         string text = Console.ReadLine();
