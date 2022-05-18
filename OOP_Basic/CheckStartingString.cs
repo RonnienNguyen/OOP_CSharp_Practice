@@ -30,7 +30,7 @@ public class CheckStartingString
         ss = "False";
         return ss;
     }
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         string s = Console.ReadLine();
         Console.WriteLine(Check(s));
