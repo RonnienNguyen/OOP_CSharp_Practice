@@ -25,7 +25,7 @@ public class SumOfDigits
         }
         Console.WriteLine(sum);
     }
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         int input = int.Parse(Console.ReadLine());
         Check(input);
