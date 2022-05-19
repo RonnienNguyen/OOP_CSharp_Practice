@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 public class SizeofFile
 {
 
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         FileInfo fileInfo = new FileInfo("C://Users//ACER//Desktop//learnNet//OOP_Basic//OOP_Basic//Exers2.cs");
         long size = fileInfo.Length;
