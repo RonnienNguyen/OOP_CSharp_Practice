@@ -17,7 +17,7 @@ public class StringToLowerCase
         string newstring = s.ToLower();
         return newstring;
     }
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         string input = Console.ReadLine();
         Console.WriteLine(Check(input));
