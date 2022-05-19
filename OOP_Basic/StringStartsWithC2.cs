@@ -22,7 +22,7 @@ public class StringStartsWithC2
         }
 
     }
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         string s = Console.ReadLine();
         string key = Console.ReadLine();
