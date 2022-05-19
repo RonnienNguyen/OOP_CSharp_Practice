@@ -36,7 +36,7 @@ public class Sum500FirstPrimeNumbers
             return false;
         }
     }
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         int sum = 0;
         int x = int.Parse(Console.ReadLine());
