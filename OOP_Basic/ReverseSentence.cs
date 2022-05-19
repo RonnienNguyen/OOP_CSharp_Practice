@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 public class ReverseSentence
 {
 
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         string s = Console.ReadLine();
         char[] ss = new char [s.Length];
