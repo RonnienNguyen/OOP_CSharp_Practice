@@ -11,7 +11,7 @@ using System.Threading.Tasks;
  */
 public class SumArrayElements
 {
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         int s = int.Parse(Console.ReadLine());
         int[] arr = new int[100];
