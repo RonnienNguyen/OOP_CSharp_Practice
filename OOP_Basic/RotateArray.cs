@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 public class RotateArray
 {
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         int[] arr = new int[100];
         int[] newarr = new int[100];
