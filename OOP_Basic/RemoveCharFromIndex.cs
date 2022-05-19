@@ -23,7 +23,7 @@ public class RemoveCharFromIndex
             return s.Remove(key, 1);
         }
     }
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         int x = int.Parse(Console.ReadLine());
         string s = Console.ReadLine();
