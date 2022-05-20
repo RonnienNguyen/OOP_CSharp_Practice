@@ -10,7 +10,7 @@ public class WriteReadFile
         byte[] info = new UTF8Encoding(true).GetBytes(valute);
         fs.Write(info, 0, info.Length);
     }
-    public static void Main()
+    public static void main()
     {
         string path = @"C:\Users\ACER\Desktop\learnNet\OOP_Basic\OOP_Basic\bin\Debug\net6.0\Phuc.txt";
         if (File.Exists(path))
