@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 public class NumberIsFirstOrLastInTwoArrays
 {
 
-    public static void Main(string[] args)
+    public static void main(string[] args)
     {
         int[] arr1 = new int[100];
         int[] arr2 = new int[100];
